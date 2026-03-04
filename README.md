@@ -1,9 +1,11 @@
 CTF focused on practical security demonstrating hands-on exploitation techniques across network security, cryptography, and vulnerability analysis.
 
 
+
 Tools used:
 
 nmap, netcat, ssh/scp, CyberChef, Ghidra, steghide, Python, Bash
+
 
 
 Technical Skills:
